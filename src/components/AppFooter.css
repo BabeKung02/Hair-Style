@@ -1,0 +1,15 @@
+.app-footer {
+    border-top: 1px solid gray;
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    background: blanchedalmond;
+    margin-top: 40px;
+  }
+  
+  .app-made {
+    font-size: 1.2rem;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+  }

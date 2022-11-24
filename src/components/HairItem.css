@@ -1,0 +1,12 @@
+.hair-item img {
+    display: block;
+    width: 100%;
+    box-shadow: 1px 1px 5px ;
+    cursor: zoom-in;
+  }
+.hair-title{
+  text-align: center;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  font-family: 'Bebas Neue', cursive;
+}

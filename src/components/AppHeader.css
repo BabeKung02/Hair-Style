@@ -1,0 +1,14 @@
+.app-header {
+    border-bottom: 1px solid gray;
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    background: blanchedalmond;
+  }
+  
+  .app-header-logo {
+    font-size: 1.7rem;
+    font-family: 'Noto Serif', serif;
+    letter-spacing: 4px;
+  }
